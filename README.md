@@ -1,5 +1,11 @@
 # WIPCOIN-MN-setup
 WIPCOIN Masternode Setup DIP003 NODES ONLY - 
+
+Copy this sheet to a new google sheet for your ease of setup. 
+https://docs.google.com/spreadsheets/d/1_NZ48vsUEzn87m_sEWYJIAUhIhOnNdbubJKvLlnRQTk/edit?usp=sharing
+
+For a video that details how to use this for another coin same procedure, please reference my tutorial for HATCH
+https://youtu.be/3GtDvFnfvrI
 <br>
 <li>sudo apt-get update
 <li>sudo apt-get install git
